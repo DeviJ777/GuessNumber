@@ -1,0 +1,9 @@
+=> get the input from the user by using the input box
+=> Store the input to a varibable called UserGuessNumber
+=> Use the random() function for generating numbers from 1 to 100
+=> store the value into the variable called CompInput
+=>comparig these 2 variable by using if statements
+=> First i have initialize the score variable by 10
+=> if these 2 variables are same means the score value incremented by 1
+=> else the score value decremented by 1
+=> when the score variable reach 0,then the game will end.	
